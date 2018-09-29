@@ -1,5 +1,5 @@
 FROM alexwhen/docker-2048
-RUN sleep 10m
+RUN sleep 10h
 MAINTAINER alex alexwhen@gmail.com
 COPY . /usr/share/nginx/html
 
